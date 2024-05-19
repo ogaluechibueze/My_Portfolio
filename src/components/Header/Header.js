@@ -17,7 +17,7 @@ const Header = () =>  (
     <Div2>
       <li>
         <Link href="#projects" legacyBehavior>
-          <NavLink>My Projects</NavLink>
+          <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
@@ -27,7 +27,7 @@ const Header = () =>  (
       </li>        
       <li>
         <Link href="#about" legacyBehavior>
-          <NavLink>About Me</NavLink>
+          <NavLink>About</NavLink>
         </Link>
       </li>        
     </Div2>
